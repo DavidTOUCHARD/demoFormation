@@ -28,4 +28,7 @@ Fonctionnalités :
 - Insertion en base de données d'une formation
 
 Technologies : 
-Servlet, HTML, JSP,JPA
+- Servlet
+- HTML
+- JSP
+- JPA
