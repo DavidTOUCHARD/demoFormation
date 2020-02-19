@@ -1,5 +1,7 @@
 # demoFormation
 
+Installer XAMPP et créer la base demojpa.
+
 Installer TomcatServer 9.0 : http://objis.com/tutoriel-tomcat-n1-installation-tomcat-8/
 
 Generation du fichier WAR : A la racine du projet, où se trouve le dossier target executer la commande suivante :
